@@ -1,11 +1,14 @@
 # AnalizarVA
 Scripts para analizar archivos de Voltametrias a partir de datos de EC-Lab
 
+Video con la explicación de la instalación y uso
+https://youtu.be/3y496esi25E
+
 Instalación:
 1) Descargar e instalar Python
 2) Ejecutar la terminal de Windows Inicio + "cmd"
 3) Instalar las librerias necesarias con:
-         pip install scipy chardet matplotlib numpy
+         pip install scipy chardet matplotlib numpy pandas
 5) Ejecución básica del script:
          python AnalizaVA.py
 6) Ejecución avanzada del script:
